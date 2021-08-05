@@ -1,18 +1,2 @@
-hello this is a first change from git using vi editor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Hello this is a first change from git using vi editor
+This change is done on 5th August.

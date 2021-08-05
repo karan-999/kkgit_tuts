@@ -1,14 +1,6 @@
+Surnames used most commonly:
+Aggarwal
+Sharma
+Gupta
 
-
-
-
-
-
-
-
-
-
-
-
-gupta
-
+Note: a command is used for appending text after the cursor.
